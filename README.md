@@ -8,6 +8,6 @@ This blog runs on Jekyll. To run the jekyll server, simply follow the following 
 
 1. Open your `~/.zshrc` or `~/.bashrc`.
 2. Add the following line to the file and save:
-    alias blag='bundle exec jekyll serve --watch --incremental'
+    `alias blag='bundle exec jekyll serve --watch --incremental'`
 3. Run `source ~/.zshrc` or `source ~/.bashrc`.
 4. Run `blag`.
